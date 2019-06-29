@@ -37,6 +37,14 @@ const Navbar = class extends React.Component {
         className="navbar is-transparent"
         role="navigation"
         aria-label="main-navigation"
+        style={{
+          position: 'fixed',
+          top: '0',
+          left: '0',
+          right: '0',
+          height: '60px',
+          boxShadow: '0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)'
+        }}
       >
         <div className="container">
           <div className="navbar-brand">
@@ -59,18 +67,35 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-end has-text-centered">
+            <div className="navbar-item has-dropdown is-hoverable">
               <Link className="navbar-item" to="/about">
                 About
               </Link>
-              <Link className="navbar-item" to="/products">
+
+              <div className="navbar-dropdown">
+                <Link className="navbar-item" to="/about">Foundation</Link>
+                <Link className="navbar-item" to="/about#joanna">About me</Link>
+                <Link className="navbar-item" to="/life-events">Mission</Link>
+              </div>
+            </div>
+              {/* <Link className="navbar-item" to="/products">
                 Products
+              </Link> */}
+              <Link className="navbar-item" to="/life-samtaler">
+                Life Samtaler
+              </Link>
+              <Link className="navbar-item" to="/life-shops">
+                Life Shops
+              </Link>
+              <Link className="navbar-item" to="/life-events">
+                Life Events
               </Link>
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>
-              <Link className="navbar-item" to="/contact/examples">
+              {/* <Link className="navbar-item" to="/contact/examples">
                 Form Examples
-              </Link>
+              </Link> */}
               <Link className="navbar-item" to="/blog">
                 Blog
               </Link>
