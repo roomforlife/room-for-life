@@ -1,12 +1,12 @@
 import React from 'react';
 import Layout from '../../components/Layout'
 
-const SamtalerPage = () => (
+const ShopsPage = () => (
     <Layout>
     <div className="container">
-      <h1>SamtalerPage</h1>
+      <h1>Life Shops</h1>
     </div>
   </Layout>
 )
 
-export default SamtalerPage
+export default ShopsPage
