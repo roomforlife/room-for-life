@@ -68,35 +68,35 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-end has-text-centered">
             <div className="navbar-item has-dropdown is-hoverable">
-              <Link className="navbar-item has-text-white" to="/about">
+              <Link className="navbar-item has-text-white has-text-warning" to="/about">
                 About
               </Link>
 
-              <div className="navbar-dropdown">
-                <Link className="navbar-item" to="/about">Foundation</Link>
-                <Link className="navbar-item" to="/about#joanna">About me</Link>
-                <Link className="navbar-item" to="/life-events">Mission</Link>
+              <div className="navbar-dropdown has-background-dark">
+                <Link className="navbar-item has-text-warning" to="/about">Foundation</Link>
+                <Link className="navbar-item has-text-warning" to="/about#joanna">About me</Link>
+                <Link className="navbar-item has-text-warning" to="/life-events">Mission</Link>
               </div>
             </div>
               {/* <Link className="navbar-item" to="/products">
                 Products
               </Link> */}
-              <Link className="navbar-item" to="/life-samtaler">
+              <Link className="navbar-item has-text-warning" to="/life-samtaler">
                 Life Samtaler
               </Link>
-              <Link className="navbar-item" to="/life-shops">
+              <Link className="navbar-item has-text-warning" to="/life-shops">
                 Life Shops
               </Link>
-              <Link className="navbar-item" to="/life-events">
+              <Link className="navbar-item has-text-warning" to="/life-events">
                 Life Events
               </Link>
-              <Link className="navbar-item" to="/contact">
+              <Link className="navbar-item has-text-warning" to="/contact">
                 Contact
               </Link>
               {/* <Link className="navbar-item" to="/contact/examples">
                 Form Examples
               </Link> */}
-              <Link className="navbar-item" to="/blog">
+              <Link className="navbar-item has-text-warning" to="/blog">
                 Blog
               </Link>
             </div>
