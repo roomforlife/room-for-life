@@ -34,7 +34,7 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <nav
-        className="navbar is-transparent"
+        className="navbar is-dark"
         role="navigation"
         aria-label="main-navigation"
         style={{
@@ -43,7 +43,7 @@ const Navbar = class extends React.Component {
           left: '0',
           right: '0',
           height: '60px',
-          boxShadow: '0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)'
+          boxShadow: '0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)',
         }}
       >
         <div className="container">
@@ -68,7 +68,7 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-end has-text-centered">
             <div className="navbar-item has-dropdown is-hoverable">
-              <Link className="navbar-item" to="/about">
+              <Link className="navbar-item has-text-white" to="/about">
                 About
               </Link>
 
