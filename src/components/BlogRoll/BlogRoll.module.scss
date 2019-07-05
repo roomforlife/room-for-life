@@ -1,0 +1,19 @@
+.section {
+    background: linear-gradient(to bottom, #fff 50%, #fae8da 50%);
+}
+.postTitle {
+    letter-spacing: 1.2px;
+}
+.viewAllBtn {
+    background-color: #df6c01;
+    padding: 10px 25px;
+    color: white;
+    transition: all .2s;
+    box-sizing: border-box;
+    &:hover {
+        text-decoration: none;
+        background-color: transparent;
+        color: #df6c01;
+        border: 1px solid #df6c01;
+    }
+}

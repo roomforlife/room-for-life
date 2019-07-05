@@ -1,7 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
-import PreviewCompatibleImage from './PreviewCompatibleImage'
+import PreviewCompatibleImage from '../PreviewCompatibleImage'
+import cx from 'classnames'
+
+import bs from '../Bootstrap.module.scss'
+import blogRoll from './BlogRoll.module.scss'
 
 class BlogRoll extends React.Component {
   render() {
@@ -9,19 +13,24 @@ class BlogRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <div className="container section">
-        <h2 className="is-size-2 has-text-centered">Recent blog posts</h2>
-        <div className="columns blogRoll">
-          {posts && posts.map(({node: post}) => (
-            <aside className="is-parent column is-6" key={post.id}>
-              <h3>{post.frontmatter.title}</h3>
-            </aside> 
-          ))}
+      <section className={cx(blogRoll.section, bs.py5)}>
+        <div className={cx(bs.container)}>
+          <h2 className={cx(bs.textCenter, bs.mb5, bs.fontWeightRegular)}>Recent blog posts</h2>
+          <div className={cx(bs.row, bs.justifyContentAround)}>
+            {posts && posts.map(({node: post}) => (
+              <aside className={cx(bs.col12, bs.colMd5)} key={post.id}>
+                <PreviewCompatibleImage imageInfo={{image:post.frontmatter.featuredimage}} />
+                <h3 className={cx(bs.h6, bs.fontWeightBold, bs.textUppercase, bs.my3, blogRoll.postTitle)}>{post.frontmatter.title}</h3>
+                <p>{post.frontmatter.description}</p>
+              </aside> 
+            ))}
+          </div>
+          <div className={cx(bs.textCenter, bs.my5)}>
+            <Link to="/blog" className={blogRoll.viewAllBtn}>View all posts</Link>
+          </div>
         </div>
-        <Link to="/blog">
-          <button>View all posts</button>
-        </Link>
-      </div>
+      </section>
+     
     )
   }
 }
@@ -53,6 +62,7 @@ export default () => (
               frontmatter {
                 title
                 templateKey
+                description
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
                 featuredimage {
