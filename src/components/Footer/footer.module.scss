@@ -1,0 +1,34 @@
+.footer {
+    background-color: #24292d;
+}
+.socials {
+    display: flex;
+    justify-content: center;
+}
+.socialIconWrapper {
+    padding: 10px;
+    border-radius: 100%;
+    border: 2px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 3rem;
+    height: 3rem;
+    margin: 0 1rem;
+    transition: border-color .3s;
+    &:hover,
+    &:focus {
+        border-color: white;
+        
+        .socialIcon {
+            fill: white;
+        }
+    }
+
+}
+.socialIcon {
+    transition: fill .3s;
+    fill: gray;
+    width: 1.5rem;
+    height: 1.5rem;
+}
