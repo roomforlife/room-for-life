@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import Features from '../components/Features'
+import Features from '../components/Features/Features'
 import BlogRoll from '../components/BlogRoll/BlogRoll';
 
 export const IndexPageTemplate = ({
@@ -130,11 +130,13 @@ export const pageQuery = graphql`
           blurbs {
             image {
               childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
+                fluid(maxWidth: 350, quality: 75) {
                   ...GatsbyImageSharpFluid
                 }
               }
             }
+            title
+            url
             text
           }
           heading
