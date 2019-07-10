@@ -9,8 +9,8 @@ import features from './Features.module.scss'
 const FeatureGrid = ({ gridItems }) => (
   <section className={bs.my5}>
     <div className={bs.container}>
-      <h2 className={cx(bs.my2, bs.h2, bs.textCenter)}>What we do</h2>
-      <p className={bs.textCenter}>More description about what we do.</p>
+      <h2 className={cx(bs.my2, bs.h1, bs.textCenter, bs.fontFamilySerif)}>What we do</h2>
+      <p className={cx(bs.textCenter, bs.my5)}>More description about what we do.</p>
       <div className={bs.row}>
         {gridItems && gridItems.map((item) => (
           <aside key={item.text} className={cx(bs.col12, bs.colMd4)}>
@@ -18,7 +18,8 @@ const FeatureGrid = ({ gridItems }) => (
               !!item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image
             })`}}>
               <div className={features.borderDiv}>
-                <h3 className={cx(bs.h3, bs.textWhite)}>{item.title}</h3>
+                <h3 className={cx(bs.h2, features.cardTitle)}>{item.title}</h3>
+                <div className={features.divider}></div>
                 <p className={cx(bs.my3, bs.textWhite)}>{item.text}</p>
                 <Link className={cx(features.viewMoreButton, bs.my2)} to={item.url}>View more</Link>
               </div>

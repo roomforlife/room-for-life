@@ -1,2 +1,9 @@
 $font-family-base: 'Source Sans Pro';
+
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+.h2,
+.h1,
+.h3 {
+    font-family: 'Dancing Script';
+} 

@@ -4,7 +4,8 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features/Features'
-import BlogRoll from '../components/BlogRoll/BlogRoll';
+import Mission from '../components/Mission/Mission'
+import BlogRoll from '../components/BlogRoll/BlogRoll'
 
 export const IndexPageTemplate = ({
   image,
@@ -63,6 +64,7 @@ export const IndexPageTemplate = ({
       </div>
     </div>
     <Features gridItems={intro.blurbs}/>
+    <Mission />
     <BlogRoll />
   </div>
 )
