@@ -1,6 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import logo from '../img/logo.svg'
+import PreviewCompatibleImage from '../PreviewCompatibleImage'
+
+import nav from './navbar.module.scss'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -48,8 +50,8 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+            <Link to="/" title="Logo">
+              <PreviewCompatibleImage imageInfo={{image: "img/RFL_FORM_WHITE.png", alt: "room for life", imageStyle: {height: '60px', padding: '10px 15px'}}} />
             </Link>
             {/* Hamburger menu */}
             <div

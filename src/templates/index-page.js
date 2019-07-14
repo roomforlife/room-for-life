@@ -1,11 +1,15 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
+import cx from 'classnames'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features/Features'
 import Mission from '../components/Mission/Mission'
 import BlogRoll from '../components/BlogRoll/BlogRoll'
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
+
+import bs from '../components/Bootstrap.module.scss'
 
 export const IndexPageTemplate = ({
   image,
@@ -27,41 +31,6 @@ export const IndexPageTemplate = ({
         backgroundAttachment: `fixed`,
       }}
     >
-      <div
-        style={{
-          display: 'flex',
-          height: '150px',
-          lineHeight: '1',
-          justifyContent: 'space-around',
-          alignItems: 'center',
-          flexDirection: 'column',
-        }}
-      >
-        <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-          style={{
-            border: '2px solid white',
-            color: 'white',
-            lineHeight: '1',
-            padding: '1rem 2rem',
-            backgroundColor: 'rgba(0,0,0,.25)'
-          }}
-        >
-          {title}
-        </h1>
-        <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
-          style={{
-            color: 'white',
-            lineHeight: '1',
-            padding: '1rem',
-            textAlign: 'center',
-            borderBottom: '1px solid white'
-          }}
-        >
-          {subheading}
-        </h3>
-      </div>
     </div>
     <Features gridItems={intro.blurbs}/>
     <Mission />

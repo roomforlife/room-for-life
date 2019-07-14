@@ -15,7 +15,7 @@ class BlogRoll extends React.Component {
     return (
       <section className={cx(blogRoll.section, bs.py5)}>
         <div className={cx(bs.container)}>
-          <h2 className={cx(bs.textCenter, bs.mb5, bs.fontWeightRegular)}>Recent blog posts</h2>
+          <h2 className={cx(bs.mb5, bs.h1, bs.textCenter, bs.fontFamilySerif)}>Recent blog posts</h2>
           <div className={cx(bs.row, bs.justifyContentAround)}>
             {posts && posts.map(({node: post}) => (
               <aside className={cx(bs.col12, bs.colMd5)} key={post.id}>
