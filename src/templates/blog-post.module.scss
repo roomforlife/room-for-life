@@ -1,0 +1,26 @@
+.title {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.featuredImage {
+    height: 50vw;
+}
+
+.postBody {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.description {
+    font-size: 1.2rem;
+    font-weight: bold;
+    &::first-letter {
+        color: #f3520a;
+    }
+}
+@media (min-width: 758px) {
+    .featuredImage {
+        height: 560px;
+    }
+}

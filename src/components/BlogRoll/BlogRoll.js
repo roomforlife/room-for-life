@@ -20,7 +20,9 @@ class BlogRoll extends React.Component {
             {posts && posts.map(({node: post}) => (
               <aside className={cx(bs.col12, bs.colMd5)} key={post.id}>
                 <PreviewCompatibleImage imageInfo={{image:post.frontmatter.featuredimage}} />
-                <h3 className={cx(bs.h6, bs.fontWeightBold, bs.textUppercase, bs.my3, blogRoll.postTitle)}>{post.frontmatter.title}</h3>
+                <Link to={post.fields.slug} className={cx(bs.h6, bs.fontWeightBold, bs.textUppercase, bs.my3, blogRoll.postTitle, bs.textDecorationNone, bs.textDark, bs.dBlock)}>
+                  {post.frontmatter.title}
+                </Link>
                 <p>{post.frontmatter.description}</p>
               </aside> 
             ))}

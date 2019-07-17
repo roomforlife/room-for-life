@@ -5,44 +5,45 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import cx from 'classnames'
+
+ import bs from '../components/Bootstrap.module.scss'
+ import post from './blog-post.module.scss'
 
 export const BlogPostTemplate = ({
   content,
   contentComponent,
   description,
-  tags,
+  featuredimage,
+  date,
   title,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
 
   return (
-    <section className="section">
-      {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
-            <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map(tag => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
-          </div>
+    <article className={cx(bs.container, bs.my5)}>
+        {helmet || ''}
+        <span className={cx(bs.dBlock, bs.mxAuto, bs.textCenter, bs.textUppercase)}>{date}</span>
+        <h1 className={cx(bs.textCenter, bs.h1, bs.my4, post.title)}>{title}</h1>
+        <div
+          className={cx(bs.w100, bs.my5, post.featuredImage)}
+          style={{
+            backgroundImage: `url(${
+              !!featuredimage.childImageSharp ? featuredimage.childImageSharp.fluid.src : featuredimage
+            })`,
+            backgroundPosition: `center`,
+            backgroundSize: 'cover'
+          }}
+        >
         </div>
-      </div>
-    </section>
+        <main className={post.postBody}>
+          <p className={cx(post.description, bs.my4)}>{description}</p>
+          <div className="container content">
+            <PostContent content={content}/>
+          </div>
+        </main>
+    </article>
   )
 }
 
@@ -63,6 +64,8 @@ const BlogPost = ({ data }) => {
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
+        date={post.frontmatter.date}
+        featuredimage={post.frontmatter.featuredimage}
         helmet={
           <Helmet titleTemplate="%s | Blog">
             <title>{`${post.frontmatter.title}`}</title>
@@ -97,6 +100,13 @@ export const pageQuery = graphql`
         title
         description
         tags
+        featuredimage {
+          childImageSharp {
+            fluid(maxWidth: 1200, quality: 85) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
