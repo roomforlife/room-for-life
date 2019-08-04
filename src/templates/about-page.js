@@ -3,25 +3,19 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import DetailPageLayout from '../components/Layouts/DetailPageLayout/DetailPageLayout'
 
-export const AboutPageTemplate = ({ title, content, contentComponent }) => {
+export const AboutPageTemplate = ({ title, subtitle, heroImage, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                {title}
-              </h2>
-              <PageContent className="content" content={content} />
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <DetailPageLayout 
+      title={title}
+      subtitle={subtitle}
+      heroImage={heroImage}
+    >
+         <PageContent className="content" content={content} />
+    </DetailPageLayout>
   )
 }
 
@@ -39,6 +33,8 @@ const AboutPage = ({ data }) => {
       <AboutPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
+        subtitle={post.frontmatter.subtitle}
+        heroImage={post.frontmatter.heroImage}
         content={post.html}
       />
     </Layout>
@@ -57,6 +53,8 @@ export const aboutPageQuery = graphql`
       html
       frontmatter {
         title
+        subtitle
+        heroImage
       }
     }
   }
