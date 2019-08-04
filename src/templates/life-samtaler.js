@@ -1,6 +1,7 @@
 import React from 'react';
 import Layout from '../components/Layout'
 import DetailPageLayout from '../components/Layouts/DetailPageLayout/DetailPageLayout'
+import {graphql} from 'gatsby'
 import {HTMLContent} from '../components/Content'
 
 const SamtalerPage = ({data}) => {
@@ -28,7 +29,13 @@ export const aboutPageQuery = graphql`
       frontmatter {
         title
         subtitle
-        heroImage
+        heroImage {
+          childImageSharp {
+            fluid(maxWidth: 800, quality: 85) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }

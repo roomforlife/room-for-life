@@ -12,7 +12,9 @@ const DetailPageLayout = ({ title, subtitle, heroImage, children }) => {
                 <h1 className={cx(dpl.title, bs.h2, bs.px2)}>{title}</h1>
                 <h2 className={cx(bs.px5, dpl.subtitle)}>{subtitle}</h2>
               </div>
-            <div className={dpl.mainImage} style={{backgroundImage: `url(${heroImage})`}}></div>
+            <div className={dpl.mainImage} style={{backgroundImage: `url(${
+          !!heroImage.childImageSharp ? heroImage.childImageSharp.fluid.src : heroImage
+        })`}}></div>
           </div>
         </header>
         <main className={cx(bs.my5, bs.container)}>

@@ -54,7 +54,13 @@ export const aboutPageQuery = graphql`
       frontmatter {
         title
         subtitle
-        heroImage
+        heroImage {
+          childImageSharp {
+            fluid(maxWidth: 800, quality: 85) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
