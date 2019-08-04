@@ -1,5 +1,4 @@
 import React from 'react'
-import {Link} from 'gatsby'
 import cx from 'classnames'
 
 import bs from '../Bootstrap.module.scss'

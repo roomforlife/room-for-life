@@ -1,15 +1,15 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 import cx from 'classnames'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features/Features'
 import Mission from '../components/Mission/Mission'
 import BlogRoll from '../components/BlogRoll/BlogRoll'
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 
 import bs from '../components/Bootstrap.module.scss'
+import ip from './index-page.module.scss'
 
 export const IndexPageTemplate = ({
   image,
@@ -22,15 +22,19 @@ export const IndexPageTemplate = ({
 }) => (
   <div>
     <div
-      className="full-width-image margin-top-0"
+      className={ip.heroImage}
       style={{
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `center`,
-        backgroundAttachment: `fixed`,
       }}
     >
+      <div className={cx(ip.headerContainer, bs.container)}>
+        <div className={cx(ip.logoWrapper)}>
+          <img src="/img/RFL_FULL_ORANGE.png" alt="" className={cx(ip.logo, bs.p4)}/>
+        </div>
+          <h1 className={cx(ip.title, bs.textWhite, bs.textCenter, bs.mx4, bs.p4)}>Creating possibilities through language.</h1>
+      </div>
     </div>
     <Features gridItems={intro.blurbs}/>
     <Mission />
