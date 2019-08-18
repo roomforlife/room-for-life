@@ -51,7 +51,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" title="Logo">
-              <PreviewCompatibleImage imageInfo={{image: "/img/RFL_FORM_WHITE.png", alt: "room for life", imageStyle: {height: '60px', padding: '10px 15px'}}} />
+              <PreviewCompatibleImage imageInfo={{image: "/img/RFL_FULL_WHITE.png", alt: "room for life", imageStyle: {height: '60px', padding: '0 15px'}}} />
             </Link>
             {/* Hamburger menu */}
             <div
@@ -70,35 +70,35 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-end has-text-centered">
             <div className="navbar-item has-dropdown is-hoverable">
-              <Link className="navbar-item has-text-white has-text-warning" to="/about">
+              <Link className="navbar-item has-text-white" to="/about">
                 About
               </Link>
 
               <div className="navbar-dropdown has-background-dark">
-                <Link className="navbar-item has-text-warning" to="/about">Foundation</Link>
-                <Link className="navbar-item has-text-warning" to="/about#joanna">About me</Link>
-                <Link className="navbar-item has-text-warning" to="/life-events">Mission</Link>
+                <Link className="navbar-item has-text-white" to="/about">Foundation</Link>
+                <Link className="navbar-item has-text-white" to="/about#joanna">About me</Link>
+                <Link className="navbar-item has-text-white" to="/life-events">Mission</Link>
               </div>
             </div>
               {/* <Link className="navbar-item" to="/products">
                 Products
               </Link> */}
-              <Link className="navbar-item has-text-warning" to="/life-samtaler">
+              <Link className="navbar-item has-text-white" to="/life-samtaler">
                 Life Samtaler
               </Link>
-              <Link className="navbar-item has-text-warning" to="/life-shops">
+              <Link className="navbar-item has-text-white" to="/life-shops">
                 Life Shops
               </Link>
-              <Link className="navbar-item has-text-warning" to="/life-events">
+              <Link className="navbar-item has-text-white" to="/life-events">
                 Life Events
               </Link>
-              <Link className="navbar-item has-text-warning" to="/contact">
+              <Link className="navbar-item has-text-white" to="/contact">
                 Contact
               </Link>
               {/* <Link className="navbar-item" to="/contact/examples">
                 Form Examples
               </Link> */}
-              <Link className="navbar-item has-text-warning" to="/blog">
+              <Link className="navbar-item has-text-white" to="/blog">
                 Blog
               </Link>
             </div>

@@ -2,7 +2,7 @@
 templateKey: life-samtaler
 title: Life samtaler
 subtitle: This is place for about us subtitle.
-heroImage: /img/hero-home.jpg
+heroImage: /img/life-samtaler.jpg
 ---
 ### Life samtler
 Some text for life samtaler

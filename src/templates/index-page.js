@@ -30,10 +30,10 @@ export const IndexPageTemplate = ({
       }}
     >
       <div className={cx(ip.headerContainer, bs.container)}>
-        <div className={cx(ip.logoWrapper)}>
-          <img src="/img/RFL_FULL_ORANGE.png" alt="" className={cx(ip.logo, bs.p4)}/>
+        <div className={cx(ip.logoWrapper, bs.my4)}>
+          <img src="/img/RFL_TYPE_WHITE.png" alt="" className={cx(ip.logo)}/>
         </div>
-          <h1 className={cx(ip.title, bs.textWhite, bs.textCenter, bs.mx4, bs.p4)}>Creating possibilities through language.</h1>
+          <h1 className={cx(ip.title, bs.textWhite, bs.textCenter, bs.mx4, bs.p4)}>Transform LIFE through the power of language.</h1>
       </div>
     </div>
     <Features gridItems={intro.blurbs}/>

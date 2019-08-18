@@ -2,7 +2,7 @@
 templateKey: life-shops
 title: Life shops
 subtitle: This is place for life shops subtitle
-heroImage: /img/flavor_wheel.jpg
+heroImage: /img/life-shops.jpg
 ---
 ### Life samtler
 Some text for life samtaler

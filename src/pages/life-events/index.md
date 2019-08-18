@@ -2,7 +2,7 @@
 templateKey: life-events
 title: Life events
 subtitle: This is place for life events subtitle
-heroImage: /img/products-full-width.jpg
+heroImage: /img/life-events.jpg
 ---
 ### Life samtler
 Some text for life samtaler

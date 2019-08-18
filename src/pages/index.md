@@ -18,17 +18,17 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/flavor_wheel.jpg
+    - image: /img/life-samtaler.jpg
       title: Life Samtaler
       url: /life-samtaler
       text: >
         This will be the text for Life Samtaler
-    - image: /img/chemex.jpg
+    - image: /img/life-shops.jpg
       title: Life Shops
       url: /life-shops
       text: >
         This will be the text for Life Shops
-    - image: /img/flavor_wheel.jpg
+    - image: /img/life-events.jpg
       title: Life Evets
       url: /life-events
       text: >

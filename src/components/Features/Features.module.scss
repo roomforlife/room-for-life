@@ -1,21 +1,19 @@
 .featuresCard {
-    padding: 18px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    margin: 16px auto;
 }
 
 .borderDiv {
-    padding: 8px;
+    padding: 24px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: 1px solid white;
-    background-color: rgba(0,0,0,.75);
 }
 
-.cardTitle {
-    color: white;
+.cardImage {
+    width: 100%;
+    height: 200px;
+    background-position: center 5%;
 }
 
 .divider {
@@ -26,16 +24,18 @@
 }
 
 .viewMoreButton {
-    background-color: rgba(0,0,0,.75);
-    border: 1px solid white;
+    background-color: #f3520a;
+    border: 1px solid #f3520a;
+    border-radius: 2px;
     padding: 8px 24px;
     color: white;
     font-weight: bold;
     letter-spacing: 1.2px;
     transition: all .3s;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
     &:hover {
-        background-color: white;
-        color: black;
+        color: #f3520a;
         text-decoration: none;
+        background-color: white;
     }
 }

@@ -14,13 +14,14 @@ const FeatureGrid = ({ gridItems }) => (
       <div className={bs.row}>
         {gridItems && gridItems.map((item) => (
           <aside key={item.text} className={cx(bs.col12, bs.colMd4)}>
-            <div className={features.featuresCard} style={{ background: `url(${
+            <div className={features.featuresCard}>
+              <div className={features.cardImage} style={{ 'background-image': `url(${
               !!item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image
-            })`}}>
+            })`}}></div>
               <div className={features.borderDiv}>
                 <h3 className={cx(bs.h2, features.cardTitle)}>{item.title}</h3>
                 <div className={features.divider}></div>
-                <p className={cx(bs.my3, bs.textWhite)}>{item.text}</p>
+                <p className={cx(bs.my3)}>{item.text}</p>
                 <Link className={cx(features.viewMoreButton, bs.my2)} to={item.url}>View more</Link>
               </div>
             </div>
