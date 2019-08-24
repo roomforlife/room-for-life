@@ -33,7 +33,7 @@ export const IndexPageTemplate = ({
         <div className={cx(ip.logoWrapper, bs.my4)}>
           <img src="/img/RFL_TYPE_WHITE.png" alt="" className={cx(ip.logo)}/>
         </div>
-          <h1 className={cx(ip.title, bs.textWhite, bs.textCenter, bs.mx4, bs.p4)}>Transform LIFE through the power of language.</h1>
+          <h1 className={cx(ip.title, bs.textWhite, bs.textCenter, bs.mx4, bs.p4)}>{heading}</h1>
       </div>
     </div>
     <Features gridItems={intro.blurbs}/>
