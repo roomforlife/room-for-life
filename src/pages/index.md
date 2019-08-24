@@ -55,5 +55,4 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-heading: Room for life1
 ---
