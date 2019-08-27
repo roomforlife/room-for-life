@@ -53,3 +53,19 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: Image, name: heroImage, widget: image}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/life-events/index.md"
+        label: "Life Events"
+        name: "life-events"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "life-events"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: Image, name: heroImage, widget: image}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/life-shops/index.md"
+        label: "Life Shops"
+        name: "life-shops"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "life-shops"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: Image, name: heroImage, widget: image}
+          - {label: "Body", name: "body", widget: "markdown"}
