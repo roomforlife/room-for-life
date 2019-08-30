@@ -16,6 +16,7 @@ export class BlogIndexPage extends React.Component {
       <Layout>
           <Helmet title="Blog" />
           <div className={bs.container}>
+            <h1 className={cx(bs.textCenter, bs.h1, bs.my4)}>Blog</h1>
             <div className={cx(blog.featuredPost, bs.my4, bs.p4)}>
                 {firstPost.frontmatter.title}
             </div>

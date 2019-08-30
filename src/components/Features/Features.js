@@ -15,7 +15,7 @@ const FeatureGrid = ({ gridItems }) => (
         {gridItems && gridItems.map((item) => (
           <aside key={item.text} className={cx(bs.col12, bs.colMd4)}>
             <div className={features.featuresCard}>
-              <div className={features.cardImage} style={{ 'background-image': `url(${
+              <div className={features.cardImage} style={{ 'backgroundImage': `url(${
               !!item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image
             })`}}></div>
               <div className={features.borderDiv}>

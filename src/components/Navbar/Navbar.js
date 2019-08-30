@@ -71,36 +71,19 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
             <div className="navbar-item has-dropdown is-hoverable">
               <Link className="navbar-item has-text-white" to="/about">
-                About
+                Om
               </Link>
 
               <div className="navbar-dropdown has-background-dark">
-                <Link className="navbar-item has-text-white" to="/about">Foundation</Link>
-                <Link className="navbar-item has-text-white" to="/about#joanna">About me</Link>
-                <Link className="navbar-item has-text-white" to="/life-events">Mission</Link>
+                <Link className="navbar-item has-text-white" to="/about">Fundament</Link>
+                <Link className="navbar-item has-text-white" to="/about#joanna">Om Joanna</Link>
               </div>
             </div>
-              {/* <Link className="navbar-item" to="/products">
-                Products
-              </Link> */}
-              <Link className="navbar-item has-text-white" to="/life-samtaler">
-                Life Samtaler
-              </Link>
-              <Link className="navbar-item has-text-white" to="/life-shops">
-                Life Shops
-              </Link>
-              <Link className="navbar-item has-text-white" to="/life-events">
-                Life Events
-              </Link>
-              <Link className="navbar-item has-text-white" to="/contact">
-                Contact
-              </Link>
-              {/* <Link className="navbar-item" to="/contact/examples">
-                Form Examples
-              </Link> */}
-              <Link className="navbar-item has-text-white" to="/blog">
-                Blog
-              </Link>
+              <Link className="navbar-item has-text-white" to="/life-samtaler">Life Samtaler</Link>
+              <Link className="navbar-item has-text-white" to="/life-shops">Life Shops</Link>
+              <Link className="navbar-item has-text-white" to="/life-events">Life Events</Link>
+              <Link className="navbar-item has-text-white" to="/contact">Kontakt</Link>
+              <Link className="navbar-item has-text-white" to="/blog">Blog</Link>
             </div>
           </div>
         </div>
