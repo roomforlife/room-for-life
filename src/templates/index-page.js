@@ -7,6 +7,7 @@ import Layout from '../components/Layout'
 import Features from '../components/Features/Features'
 import Mission from '../components/Mission/Mission'
 import BlogRoll from '../components/BlogRoll/BlogRoll'
+import ScrollDwon from '../components/ScrollDown/ScrollDown'
 
 import bs from '../components/Bootstrap.module.scss'
 import ip from './index-page.module.scss'
@@ -30,11 +31,9 @@ export const IndexPageTemplate = ({
       }}
     >
       <div className={cx(ip.headerContainer, bs.container)}>
-        <div className={cx(ip.logoWrapper, bs.my4)}>
-          <img src="/img/RFL_TYPE_WHITE.png" alt="" className={cx(ip.logo)}/>
-        </div>
           <h1 className={cx(ip.title, bs.textWhite, bs.textCenter, bs.mx4, bs.p4)}>{heading}</h1>
       </div>
+      <ScrollDwon mixClass={ip.scrollDown}/>
     </div>
     <Features gridItems={intro.blurbs}/>
     <Mission />

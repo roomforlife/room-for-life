@@ -1,0 +1,34 @@
+.scrollDown {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+    &:hover {
+        .arrow {
+            transform: translateY(100%) rotate(45deg);
+        }
+        .text {
+            visibility: visible;
+            opacity: 1;
+            transform: translateY(-100%);
+            transition: all 0.3s cubic-bezier( 0.165, 0.82, 0.075, 1);
+        }
+    }
+}
+.arrow {
+    width: 1.6rem;
+    height: 1.6rem;
+    border-bottom: 2px solid white;
+    border-right: 2px solid white;
+    transform: rotate(45deg);
+    transition: transform 0.3s cubic-bezier(0.075, 0.82, 0.165, 1);
+    z-index: 2;
+}
+
+.text {
+    visibility: hidden;
+    opacity: 0;
+    transform: translateY(-50%);
+    transition: all 0.15s cubic-bezier(0.075, 0.82, 0.165, 1);
+}

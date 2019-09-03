@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Room for life
 image: /img/hero-home.jpg
-heading: Room for life1
+heading: TRANSFORM LIFE THROUGH THE POWER OF LANGUAGE 
 subheading: Where life is co-created and consciousness elevated
 mainpitch:
   title: Why Kaldi
