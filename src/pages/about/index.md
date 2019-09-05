@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 title: Om ROOM FOR LIFE
-heroImage: /img/RFL_FORM_BLACK.png
+heroImage: /img/room-for-life-face.png
 ---
 **ROOM FOR LIFE** arbejder for en verden, hvor ALLE mennesker oplever, at de kan noget, ved noget og vil noget - det er adgangsbilletten til et værdifuldt liv.
 
