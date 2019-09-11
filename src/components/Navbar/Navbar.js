@@ -74,13 +74,12 @@ const Navbar = class extends React.Component {
               </Link>
 
               <div className="navbar-dropdown has-background-dark">
-                <Link className="navbar-item has-text-white" to="/about">Fundament</Link>
+                <Link className="navbar-item has-text-white" to="/about">Om ROOM FOR LIFE</Link>
                 <Link className="navbar-item has-text-white" to="/about#joanna">Om Joanna</Link>
               </div>
             </div>
-              <Link className="navbar-item has-text-white" to="/life-samtaler">Life Samtaler</Link>
-              <Link className="navbar-item has-text-white" to="/life-shops">Life Shops</Link>
-              <Link className="navbar-item has-text-white" to="/life-events">Life Events</Link>
+              <Link className="navbar-item has-text-white" to="/life-samtaler">LifeSamtaler</Link>
+              <Link className="navbar-item has-text-white" to="/life-events">LifeEvents</Link>
               <Link className="navbar-item has-text-white" to="/contact">Kontakt</Link>
               <Link className="navbar-item has-text-white" to="/blog">Blog</Link>
             </div>

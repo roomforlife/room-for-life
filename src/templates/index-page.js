@@ -5,7 +5,6 @@ import cx from 'classnames'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features/Features'
-import Mission from '../components/Mission/Mission'
 import BlogRoll from '../components/BlogRoll/BlogRoll'
 import ScrollDwon from '../components/ScrollDown/ScrollDown'
 
@@ -34,7 +33,6 @@ export const IndexPageTemplate = ({
       <ScrollDwon mixClass={ip.scrollDown}/>
     </div>
     <Features gridItems={intro.blurbs}/>
-    <Mission />
     <BlogRoll />
   </div>
 )

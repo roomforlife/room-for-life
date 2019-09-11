@@ -18,13 +18,15 @@ class BlogRoll extends React.Component {
           <h2 className={cx(bs.mb5, bs.h1, bs.textCenter, bs.fontFamilySerif)}>Recent blog posts</h2>
           <div className={cx(bs.row, bs.justifyContentAround)}>
             {posts && posts.map(({node: post}) => (
-              <aside className={cx(bs.col12, bs.colMd5)} key={post.id}>
-                <PreviewCompatibleImage imageInfo={{image:post.frontmatter.featuredimage}} />
-                <Link to={post.fields.slug} className={cx(bs.h6, bs.fontWeightBold, bs.textUppercase, bs.my3, blogRoll.postTitle, bs.textDecorationNone, bs.textDark, bs.dBlock)}>
+              <Link to={post.fields.slug} className={cx(blogRoll.card, bs.col12, bs.colMd5)} key={post.id}>
+                <div className={blogRoll.image}>
+                  <PreviewCompatibleImage imageInfo={{image:post.frontmatter.featuredimage}} />
+                </div>
+                <p className={cx(bs.h6, bs.fontWeightBold, bs.textUppercase, bs.my3, blogRoll.postTitle, bs.dBlock)}>
                   {post.frontmatter.title}
-                </Link>
+                  </p>
                 <p>{post.frontmatter.description}</p>
-              </aside> 
+              </Link>
             ))}
           </div>
           <div className={cx(bs.textCenter, bs.my5)}>

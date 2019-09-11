@@ -6,6 +6,7 @@
     background-repeat: no-repeat;
     background-position: 30% top;
     position: relative;
+    filter: contrast(1.05) brightness(0.96);
 }
 .headerContainer {
     display: flex;
@@ -23,8 +24,7 @@
     font-size: 2.4rem;
     font-weight: bold;
     letter-spacing: 2px;
-    border: 1px solid rgba(255,255,255,0.34);
-    background-color: rgba(#24292d, 0.44); 
+    text-shadow: 1px 1px 5px rgba(0,0,0, 0.75);
 }
 .scrollDown {
     position: absolute;
@@ -36,7 +36,7 @@
 }
 @media (min-width: 768px) { 
     .title {
-        font-size: 3rem;
+        font-size: 3.8rem;
     
     }
 }

@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Room for life
 image: /img/hero-home.jpg
-heading: TRANSFORM LIFE THROUGH THE POWER OF LANGUAGE 
+heading: Lev det liv, du gerne vil leve.
 intro:
   blurbs:
     - image: /img/life-samtaler.jpg

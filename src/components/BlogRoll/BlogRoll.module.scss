@@ -1,8 +1,26 @@
 .section {
-    background: linear-gradient(to bottom, #fff 50%, #fae8da 50%);
+    background: linear-gradient(to bottom, #fff 50%, #EBBBB0 50%);
 }
 .postTitle {
     letter-spacing: 1.2px;
+}
+.image {
+    box-shadow: 0 10px 10px rgba(0,0,0,.19);
+    transition: all .3s ease;
+}
+.card {
+    color: #5f5f5f;
+    transition: color .3s ease;
+    &:hover,
+    &:focus {
+        text-decoration: none;
+         color: #24292d;
+
+        .image {
+            box-shadow: 0 20px 10px -10px rgba(0,0,0,.19);
+            transform: translateY(-5px);
+        }
+    }
 }
 .viewAllBtn {
     background-color: #df6c01;
