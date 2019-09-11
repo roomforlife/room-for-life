@@ -4,9 +4,6 @@ import cx from 'classnames'
 import scrollDown from './ScrollDown.module.scss'
 
 class ScrollDown extends React.Component {
-    constructor(props) {
-        super(props)
-    }
 
     scrollDown() {
         window.scroll({

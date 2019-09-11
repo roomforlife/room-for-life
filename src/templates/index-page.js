@@ -16,8 +16,6 @@ export const IndexPageTemplate = ({
   image,
   title,
   heading,
-  subheading,
-  mainpitch,
   description,
   intro,
 }) => (
@@ -94,11 +92,6 @@ export const pageQuery = graphql`
           }
         }
         heading
-        subheading
-        mainpitch {
-          title
-          description
-        }
         description
         intro {
           blurbs {
