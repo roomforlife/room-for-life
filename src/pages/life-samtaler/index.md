@@ -1,20 +1,29 @@
 ---
 templateKey: life-samtaler
-title: Life samtaler
-subtitle: This is place for about us subtitle.
+title: LifeSamtaler
 heroImage: /img/life-samtaler.jpg
 ---
-### Life samtler
-Some text for life samtaler
+### LifeSamtaler
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Samtalerne er til dig der ønsker at skabe mening i dine oplevelser, kriser eller traumer. 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Intet problem er for stort eller for småt. 
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Under samtalerne finder vi definitionen på dit problem sammen. Mit fokus i samtalerne er på, hvordan du kan bruge dit sprog som et redskab til at blive bevidst om, hvorfor du handler som du gør, og hvordan du kan ændre den måde, du tænker om dig selv på og dit forhold til andre.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Under samtalerne arbejder vi med dine håb, hvad der er vigtig for dig i dit liv, og vi udforsker det du kan, gør og vil. Vi skaber muligheder for, at du kan leve det liv du gerne vil leve. 
+
+Du er altid mere end din fortælling og den situation du står i. Der er altid mere der kan siges om dit liv.
+
+### Er samtalerne noget for dig?
+
+Bliv ringet op til en gratis og uforpligtende samtale om dig og din situation.
+
+### Praktisk information
+
+* Varighed: 60 minutter pr. session
+* Pris: 800,- pr. session. Betaling via faktura eller mobilepay
+* Hvor: Nordic Health House, Hejrevej 30, 3. Sal, 2400 København
+* Afbud: Afbud skal ske senest 24 timer før den planlagte session. Hvis dette ikke opfyldes, opkræves det fulde beløb
+* Samtalerne kan foregå på både dansk og engelsk
+* Jeg følger [Psykoterapeut Foreningens](https://psykoterapeutforeningen.dk/regler-og-vedtaegter/) etiske regler og har fuld tavshedspligt
