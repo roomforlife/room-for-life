@@ -3,22 +3,18 @@ templateKey: about-page
 title: Om ROOM FOR LIFE
 heroImage: /img/room-for-life-face.png
 ---
-ROOM FOR LIFE arbejder for en verden, hvor ALLE mennesker oplever, at de kan noget, ved noget og vil noget - det er adgangsbilletten til et værdifuldt liv.
+### Om ROOM FOR LIFE
 
-Det gør vi ved at skabe bevidsthed om, hvordan vi bliver til som mennesker gennem sproget og ved at transformere liv gennem sprogets magt.
+### ROOM FOR LIFE er startet af Joanna Wisbech. Virksomheden tilbyder terapeutiske samtaler til dig som ønsker at skabe mening i dine oplevelser, kriser eller traumer. Herudover afholder ROOM FOR LIFE løbende foredrag fokuseret på sprog og mental sundhed. 
 
-ROOM FOR LIFE arbejder på et samfunds-, organisations- og individniveau. For at transformere liv, må vi se på de omstændigheder mennesker står i og det samfund de lever i, fordi vi altid er del af en større sammenhæng. 
+### Nedenfor kan du læse mere om formålet med at starte ROOM FOR LIFE samt fundamentet som virksomheden er bygget på. 
 
-### Værdier
+### Formål
 
-Vores værdier er det fundament vi står på. Vores værdier er vores intentioner for hver opgave og tiltag. 
+Room for Life er startet med to formål in mente:  
 
-### Sproget
+Det ene formål er at formidle viden om, hvordan vi bliver skabt gennem sproget. Jeg ønsker at oplyse organisationer såvel som privatpersoner om, hvordan sproget former vores tanker, handlinger og muligheder for fremtiden. Min hensigt er at gøre forskning, teorier og metoder forståelige og brugbare i hverdagen, for flest mulige. 
 
-er essensen af ROOM FOR LIFE, fordi mennesker erkender verden og skaber virkeligheder gennem sproget. 
+Det andet formål med ROOM FOR LIFE er at hjælpe mennesker gennem terapeutiske samtaler til at leve det liv de gerne vil leve, med sproget som redskab.
 
-**Empowerment**  
-
-### Vitalitet
-
-Hvor der er liv, er der en livskraft. vi fokuserer på det som tænder, nærer og udtrykker livskraften
+### Fundament
