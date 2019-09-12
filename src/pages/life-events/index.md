@@ -1,16 +1,17 @@
 ---
 templateKey: life-events
 title: LifeEvents
-subtitle: Kan vi tale os til at trives mentalt og kan vi skabe psykisk lidelse gennem ord?
 heroImage: /img/life-events.jpg
 ---
 ### LifeEvents
 
-Jeg holder foredrag for dig som er optaget af sprog og mental sundhed. Foredragene er udviklet til dig som vil udfordre fasttømmerede måder at tænke om kategorier så som "angst", ”misbruger”, ”spiseforstyrret”, ”normal” og psykisk ”sygdom”. 
+Jeg holder foredrag for dig som er optaget af sprog og mental sundhed. 
+
+Foredragene er udviklet som ideer til hvordan vi fremmer mental sundhed og forebygger psykisk lidelse gennem sproget. De er skabt til dig som vil udfordre fasttømmerede måder at tænke om kategorier så som "angst", ”misbruger”, ”spiseforstyrret”, ”normal” eller psykisk ”sygdom”. 
 
 Kom med et åbent og nygerrigt sind og vær med til at udfordre normer og status quo. 
 
-Kalender med kommende foredrag offentliggøres snarest. 
+Kommende foredrag offentliggøres snarest. 
 
 ### Vil du booke mig til et foredrag?
 
