@@ -7,7 +7,9 @@ heroImage: /img/life-events.jpg
 
 Jeg holder foredrag for dig som er optaget af sprog og mental sundhed. 
 
-Foredragene er udviklet som ideer til hvordan vi fremmer mental sundhed og forebygger psykisk lidelse gennem sproget. De er skabt til dig som vil udfordre fasttømmerede måder at tænke om kategorier så som "angst", ”misbruger”, ”spiseforstyrret”, ”normal” eller psykisk ”sygdom”. 
+Foredragene er udviklet som ideer til hvordan vi fremmer mental sundhed og forebygger psykisk lidelse gennem sproget. 
+
+De er skabt til dig som vil udfordre fasttømmerede måder at tænke om kategorier så som "angst", ”misbruger”, ”spiseforstyrret”, ”normal” eller psykisk ”sygdom”. 
 
 Kom med et åbent og nygerrigt sind og vær med til at udfordre normer og status quo. 
 
