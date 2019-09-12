@@ -55,7 +55,11 @@ Min ambition er at forholde mig nysgerrigt og kritisk til min egen praksis - her
 
 ## Min tilgang
 
-”Don’t ask who is most likely to commit violence, ask where violence is most likely to occur”.  Dr. Allan Wade
+> _”Don’t ask who is most likely to commit violence, ask where violence is most likely to occur”._
+>
+>  
+>
+>  (Dr. Allan Wade)
 
 Jeg er særligt optaget af poststrukturalistiske ideer og mine metoder er inspireret af narrative, systemiske og responsbaserede tilgange. 
 
