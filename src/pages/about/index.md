@@ -33,6 +33,8 @@ Vi bruger sproget til at forstå og skabe mening i vores oplevelser. Den mening 
 
 Nysgerrighed er et af de absolut vigtigste principper i mit liv. Det handler om at bryde med det velkendte og se med nye øjne på de samme ting. Jeg leder ikke efter en endegyldig sandhed, men efter hvad vi ellers kan sige om en situation eller om et liv. Nysgerrigheden opfordrer mig til at spørge ind, være åben og ydmyg for det jeg endnu ikke ved. Den skaber bevægelse og ny viden. 
 
+![](/img/3.jpg)
+
 ## Empowerment
 
 Empowerment, for mig, handler om at give mennesker muligheden for at træde frem med deres stemme på en måde så de føler sig set og hørt. Så de går fra en oplevelse af magtesløshed til at opleve klarhed og handlekraft. Det er et relationelt og samfundsmæssigt projekt som må bevæge sig fra udelukkelse og marginalisering af stemmer og reduktion af mennesker til enkeltstående kategorier. Et projekt der fremmer lighed, retfærdighed og værdighed.  
