@@ -37,7 +37,9 @@ Nysgerrighed er et af de absolut vigtigste principper i mit liv. Det handler om 
 
 Empowerment, for mig, handler om at give mennesker muligheden for at træde frem med deres stemme på en måde så de føler sig set og hørt. Så de går fra en oplevelse af magtesløshed til at opleve klarhed og handlekraft. Det er et relationelt og samfundsmæssigt projekt som må bevæge sig fra udelukkelse og marginalisering af stemmer og reduktion af mennesker til enkeltstående kategorier. Et projekt der fremmer lighed, retfærdighed og værdighed.  
 
-> ”Et værdigt liv, er et liv hvor jeg kan udtrykke mig” (tidligere klient) 	
+> ”Et værdigt liv, er et liv hvor jeg kan udtrykke mig” 
+>
+> (tidligere klient) 	
 
 ## Om Joanna
 
