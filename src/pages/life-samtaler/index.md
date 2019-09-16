@@ -1,8 +1,8 @@
 ---
 templateKey: life-samtaler
 title: LifeSamtaler
-heroImage: /img/life-samtaler.jpg
 subtitle: This is place for life samtaler subtitle
+heroImage: /img/life-samtaler.jpg
 ---
 ## LifeSamtaler
 
@@ -34,3 +34,49 @@ Bliv ringet op til en gratis og uforpligtende samtale om dig og din situation.
 * Afbud: Afbud skal ske senest 24 timer før den planlagte session. Hvis dette ikke opfyldes, opkræves det fulde beløb
 * Samtalerne kan foregå på både dansk og engelsk
 * Jeg følger [Psykoterapeut Foreningens](https://psykoterapeutforeningen.dk/regler-og-vedtaegter/) etiske regler og har fuld tavshedspligt
+
+
+
+<!---
+
+**Asia, please don't remove text below. It's button to contact page. Later i will move this code to the proper place. Paweł.**
+
+\-->
+
+<style>
+
+a.contactButton {
+
+background-color: #3ba43b;
+
+color: white !important;
+
+padding: 8px 16px;
+
+margin-top: 8px;
+
+border: 1px solid  #3ba43b;
+
+display: inline-block;
+
+border-radius: 3px;
+
+font-size: 1.2rem;
+
+transition: all .3s ease-in-out;
+
+}
+
+a.contactButton:hover {
+
+background-color: white;
+
+color:  #3ba43b !important;
+
+border: 1px solid  #3ba43b;
+
+}
+
+</style>
+
+<a href="/contact" class="contactButton">Bliv kontaktet af Joanna</a>
