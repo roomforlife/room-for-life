@@ -1,8 +1,8 @@
 ---
 templateKey: about-page
 title: Om ROOM FOR LIFE
+subtitle: Test changing subtitle
 heroImage: /img/room-for-life-face.png
-subtitle: This is place for about page subtitle
 ---
 # Om ROOM FOR LIFE
 
