@@ -3,6 +3,7 @@ import uploadcare from 'netlify-cms-media-library-uploadcare'
 import cloudinary from 'netlify-cms-media-library-cloudinary'
 
 import AboutPagePreview from './preview-templates/AboutPagePreview'
+import JoannaPagePreview from './preview-templates/JoannaPagePreview'
 import BlogPostPreview from './preview-templates/BlogPostPreview'
 import IndexPagePreview from './preview-templates/IndexPagePreview'
 import LifeSamtalerPagePreview from './preview-templates/LifeSamtalerPagePreview'
@@ -14,6 +15,7 @@ CMS.registerMediaLibrary(cloudinary);
 
 CMS.registerPreviewTemplate('index', IndexPagePreview)
 CMS.registerPreviewTemplate('about', AboutPagePreview)
+CMS.registerPreviewTemplate('joanna', JoannaPagePreview)
 CMS.registerPreviewTemplate('life-samtaler', LifeSamtalerPagePreview)
 CMS.registerPreviewTemplate('life-events', LifeEventsPagePreview)
 CMS.registerPreviewTemplate('life-shops', LifeShopsPagePreview)

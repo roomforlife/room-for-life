@@ -43,6 +43,14 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: Image, name: heroImage, widget: image}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/joanna/index.md"
+        label: "Joanna"
+        name: "joanna"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "joanna-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: Image, name: heroImage, widget: image}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/life-samtaler/index.md"
         label: "Life Samtaler"
         name: "life-samtaler"

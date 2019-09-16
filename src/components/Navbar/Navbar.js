@@ -75,7 +75,7 @@ const Navbar = class extends React.Component {
 
               <div className="navbar-dropdown has-background-dark">
                 <Link className="navbar-item has-text-white" to="/about">Om ROOM FOR LIFE</Link>
-                <Link className="navbar-item has-text-white" to="/about#joanna">Om Joanna</Link>
+                <Link className="navbar-item has-text-white" to="/about-joanna">Om Joanna</Link>
               </div>
             </div>
               <Link className="navbar-item has-text-white" to="/life-samtaler">LifeSamtaler</Link>
