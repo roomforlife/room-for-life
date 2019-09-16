@@ -53,7 +53,7 @@ Jeg har arbejdet med individer og familier i kommunalt, socialpsykiatrisk og pri
 
 Jeg holder foredrag for foreninger og afdelinger rundt i landet omkring måder at forstå psykisk lidelse på. 
 
-Jeg har siddet i en udviklingsstilling i socialpsykiatrien, hvor min opgave var at implementere en social, relationel og kontekstuel forståelse af psykisk lidelse i hele organisationen.   
+Jeg har siddet i en udviklingsstilling i socialpsykiatrien, hvor min opgave var at implementere en social, relationel og kontekstuel forståelse af psykisk lidelse i organisationen.   
 
 Min ambition er at forholde mig nysgerrigt og kritisk til min egen praksis - herunder etiske, teoretiske og metodiske overvejelser. Jeg deltager derfor løbende i kurser, foredrag og konferencer for at holde mig opdateret omkring ny forskning og nye tendenser omkring psykisk sundhed og psykisk lidelse både i Danmark og i udlandet. 
 
