@@ -1,5 +1,5 @@
 ---
-templateKey: about-page
+templateKey: joanna-page
 title: Om Joanna
 heroImage: /img/room-for-life-face.png
 ---
