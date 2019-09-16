@@ -10,11 +10,6 @@ intro:
       url: /life-samtaler
       text: >
         This will be the text for Life Samtaler
-    - image: /img/life-shops.jpg
-      title: Life Shops
-      url: /life-shops
-      text: >
-        This will be the text for Life Shops
     - image: /img/life-events.jpg
       title: Life Evets
       url: /life-events

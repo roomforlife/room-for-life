@@ -2,6 +2,7 @@
 templateKey: joanna-page
 title: Om Joanna
 heroImage: /img/room-for-life-face.png
+subtitle: This is place for Joanna page subtitle
 ---
 # Om Joanna
 

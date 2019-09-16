@@ -2,6 +2,7 @@
 templateKey: life-events
 title: LifeEvents
 heroImage: /img/life-events.jpg
+subtitle: This is place for life events subtitle
 ---
 ### LifeEvents
 

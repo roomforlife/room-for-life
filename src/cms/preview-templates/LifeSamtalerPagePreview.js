@@ -5,6 +5,7 @@ import {SamtalerPageTemplate} from '../../templates/life-samtaler';
 const LifeSamtalerPagePreview = ({ entry, widgetFor }) => (
   <SamtalerPageTemplate
     title={entry.getIn(['data', 'title'])}
+    subtitle={entry.getIn(['data', 'subtitle'])}
     content={widgetFor('body')}
     heroImage={entry.getIn(['data', 'heroImage'])}
   />
