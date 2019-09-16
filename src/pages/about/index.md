@@ -31,7 +31,7 @@ Vi bruger sproget til at forstå og skabe mening i vores oplevelser. Den mening 
 
 ## Nysgerrighed
 
-Nysgerrighed er et af de absolut vigtigste principper i mit liv. Det handler om at bryde med det velkendte og se med nye øjne på de samme ting. Jeg leder ikke efter en endegyldig sandhed, men efter hvad vi ellers kan sige om en situation eller om et liv. Nysgerrigheden opfordrer mig til at spørge ind, være åben og ydmyg for det jeg endnu ikke ved. Den skaber bevægelse og ny viden. 
+Nysgerrighed er et af de absolut vigtigste principper. Nysgerrighed handler om at bryde med det velkendte og se med nye øjne på de samme ting. Jeg leder ikke efter en endegyldig sandhed, men efter hvad vi ellers kan sige om en situation eller om et liv. Nysgerrigheden opfordrer mig til at spørge ind, være åben og ydmyg for det jeg endnu ikke ved. Den skaber bevægelse og ny viden. 
 
 ## Empowerment
 
@@ -49,13 +49,15 @@ Jeg er uddannet kandidat i psykologi og kommunikation.
 
 De sidste syv år har jeg beskæftiget mig med hvordan vi kan bruge sproget til at fremme mental sundhed og forebygge psykisk lidelse. 
 
-Jeg har arbejdet med individer og familier i kommunalt, socialpsykiatrisk og privat regi. Mange af de mennesker jeg har haft i samtale, har oplevet vold, overgreb, traumer og akutte livskriser. 
+Jeg har arbejdet med individer og familier i kommunalt, socialpsykiatrisk og privat regi. Mange af de mennesker jeg har i samtale, har oplevet vold, overgreb, traumer og akutte livskriser. 
 
-Jeg har holdt foredrag for foreninger og afdelinger rundt i landet omkring måder at forstå psykisk lidelse på. 
+Jeg holder foredrag for foreninger og afdelinger rundt i landet omkring måder at forstå psykisk lidelse på. 
 
 Jeg har siddet i en udviklingsstilling i socialpsykiatrien, hvor min opgave var at implementere en social, relationel og kontekstuel forståelse af psykisk lidelse i hele organisationen.   
 
-Min ambition er at forholde mig nysgerrigt og kritisk til min egen praksis - herunder etiske, teoretiske og metodiske overvejelser. Jeg deltager derfor løbende i kurser, foredrag og konferencer for at holde mig opdateret omkring ny forskning og nye tendenser omkring psykisk sundhed og psykisk lidelse både i Danmark og i udlandet. Derudover læser jeg til specialist i narrativ psykoterapi. 
+Min ambition er at forholde mig nysgerrigt og kritisk til min egen praksis - herunder etiske, teoretiske og metodiske overvejelser. Jeg deltager derfor løbende i kurser, foredrag og konferencer for at holde mig opdateret omkring ny forskning og nye tendenser omkring psykisk sundhed og psykisk lidelse både i Danmark og i udlandet. 
+
+Derudover læser jeg til specialist i narrativ psykoterapi. 
 
 ## Min tilgang
 
@@ -65,6 +67,8 @@ Min ambition er at forholde mig nysgerrigt og kritisk til min egen praksis - her
 
 Jeg er særligt optaget af poststrukturalistiske ideer og mine metoder er inspireret af narrative, systemiske og responsbaserede tilgange. 
 
-Det betyder mere konkret at vi er ikke afgrænsede individer, men vi påvirker og påvirkes af de relationer, sprog, kultur og organisationer, som vi er en del af. For at forstå mennesker må vi se på de omstændigheder de er i og det samfund de lever i. Det betyder, at ‘problemer’ (‘symptomer’, ‘sindslidelse’ osv.) ikke er placeret ‘i individet’, men er noget som relaterer sig til livet og opstår i rummet mellem personen og omverdenen.
+Det betyder mere konkret at vi er ikke afgrænsede individer, men vi påvirker og påvirkes af de relationer, sprog, kultur og organisationer, som vi er en del af. For at forstå mennesker må vi se på de omstændigheder de er i og det samfund de lever i. 
 
-Du kan læse min private historie og motivation på min blog – klik her.
+Det betyder, at ‘problemer’ (‘symptomer’, ‘sindslidelse’ osv.) ikke er placeret ‘i individet’, men er noget som relaterer sig til livet og opstår i rummet mellem personen og omverdenen.
+
+Du kan læse min private historie og motivation på min blog.
