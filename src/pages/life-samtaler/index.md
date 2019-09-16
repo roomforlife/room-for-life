@@ -3,7 +3,7 @@ templateKey: life-samtaler
 title: LifeSamtaler
 heroImage: /img/life-samtaler.jpg
 ---
-### LifeSamtaler
+## LifeSamtaler
 
 Samtalerne er til dig der ønsker at skabe mening i dine oplevelser, kriser eller traumer. 
 
@@ -15,11 +15,17 @@ Under samtalerne arbejder vi med dine håb, hvad der er vigtig for dig i dit liv
 
 Du er altid mere end din fortælling og den situation du står i. Der er altid mere der kan siges om dit liv.
 
+## Vidner til vores liv
+
+Jeg tror på at vi skaber livet sammen og at vi har brug for vidner til vores liv. 
+
+Jeg opfordrer derfor til at tage vigtige personer med til samtalerne, hvis det giver mening.  
+
 ### Er samtalerne noget for dig?
 
 Bliv ringet op til en gratis og uforpligtende samtale om dig og din situation.
 
-### Praktisk information
+## Praktisk information
 
 * Varighed: 60 minutter pr. session
 * Pris: 800,- pr. session. Betaling via faktura eller mobilepay
