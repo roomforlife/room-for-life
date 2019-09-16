@@ -2,7 +2,7 @@
 templateKey: life-events
 title: LifeEvents
 heroImage: /img/life-events.jpg
-subtitle: This is place for life events subtitle
+subtitle: Kan vi tale os til at trives mentalt og kan vi skabe psykisk lidelse gennem ord?
 ---
 ### LifeEvents
 

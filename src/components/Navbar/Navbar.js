@@ -81,7 +81,6 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item has-text-white" to="/life-samtaler">LifeSamtaler</Link>
               <Link className="navbar-item has-text-white" to="/life-events">LifeEvents</Link>
               <Link className="navbar-item has-text-white" to="/contact">Kontakt</Link>
-              <Link className="navbar-item has-text-white" to="/blog">Blog</Link>
             </div>
           </div>
         </div>
