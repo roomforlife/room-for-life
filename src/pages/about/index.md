@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 title: Om ROOM FOR LIFE
-subtitle: Psykoterapi og foredrag med sproget i centrum
+subtitle: Psykoterapi og foredrag som transformere liv
 heroImage: /img/design-uden-navn-3.png
 ---
 # Om ROOM FOR LIFE
