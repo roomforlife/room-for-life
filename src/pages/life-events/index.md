@@ -1,10 +1,12 @@
 ---
 templateKey: life-events
 title: LifeEvents
+subtitle: >-
+  Kan vi tale os til at trives mentalt og kan vi skabe psykisk lidelse gennem
+  ord?
 heroImage: /img/life-events.jpg
-subtitle: Kan vi tale os til at trives mentalt og kan vi skabe psykisk lidelse gennem ord?
 ---
-### LifeEvents
+## LifeEvents
 
 Jeg holder foredrag for dig som er optaget af sprog og mental sundhed. 
 
