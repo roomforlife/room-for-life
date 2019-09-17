@@ -1,8 +1,8 @@
 ---
 templateKey: joanna-page
 title: Om Joanna
-heroImage: /img/room-for-life-face.png
 subtitle: This is place for Joanna page subtitle
+heroImage: /img/life-samtaler.jpg
 ---
 # Om Joanna
 
