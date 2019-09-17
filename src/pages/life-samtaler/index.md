@@ -33,13 +33,11 @@ Bliv ringet op til en gratis og uforpligtende samtale om dig og din situation.
 * Hvor: Nordic Health House, Hejrevej 30, 3. Sal, 2400 København
 * Afbud: Afbud skal ske senest 24 timer før den planlagte session. Hvis dette ikke opfyldes, opkræves det fulde beløb
 * Samtalerne kan foregå på både dansk og engelsk
-* Jeg følger [Psykoterapeut Foreningens](https://psykoterapeutforeningen.dk/regler-og-vedtaegter/) etiske regler og har fuld tavshedspligt
-
-
+* Jeg følger [Psykoterapeut Foreningens](https://psykoterapeutforeningen.dk/wp-content/uploads/2015/11/Etikfolder.pdf) etiske regler og har fuld tavshedspligt
 
 <!---
 
-**Asia, please don't remove text below. It's button to contact page. Later i will move this code to the proper place. Paweł.**
+\*\*Asia, please don't remove text below. It's button to contact page. Later i will move this code to the proper place. Paweł.\*\*
 
 \-->
 
