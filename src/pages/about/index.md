@@ -6,9 +6,9 @@ heroImage: /img/design-uden-navn-3.png
 ---
 # Om ROOM FOR LIFE
 
-ROOM FOR LIFE er startet af [Joanna](https://room-for-life.netlify.com/joanna) Wisbech. Virksomheden tilbyder terapeutiske samtaler til dig som ønsker at skabe mening i dine oplevelser, kriser eller traumer. 
+ROOM FOR LIFE er startet af [Joanna](https://room-for-life.netlify.com/joanna) Wisbech. Virksomheden tilbyder terapeutiske [samtaler](https://room-for-life.netlify.com/life-samtaler) til dig som ønsker at skabe mening i dine oplevelser, kriser eller traumer. 
 
-Herudover afholder ROOM FOR LIFE løbende foredrag fokuseret på sprog og mental sundhed.
+Herudover afholder ROOM FOR LIFE løbende [foredrag](https://room-for-life.netlify.com/life-events) fokuseret på sprog og mental sundhed.
 
 Nedenfor kan du læse mere om formålet med at starte ROOM FOR LIFE samt fundamentet som virksomheden er bygget på.
 
