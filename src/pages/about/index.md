@@ -45,3 +45,5 @@ Empowerment, for mig, handler om at give mennesker muligheden for at træde frem
 ## Samskabelse
 
 Om vi er bevidste om det eller ej, så er livet noget vi skaber sammen med andre – vi er altid en del af en større sammenhæng. For at skabe bæredygtige og værdifulde løsninger, så må vi komme tættere på os selv og hinanden. På vores intentioner og det som er vigtigt. Min opgave er hermed at forbinde mennesker gennem erfaringer, fortællinger og drømme for fremtiden.
+
+![](/img/airbaloon.jpg)
