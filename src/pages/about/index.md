@@ -2,7 +2,7 @@
 templateKey: about-page
 title: Om ROOM FOR LIFE
 subtitle: Test changing subtitle
-heroImage: /img/room-for-life-cloud.png
+heroImage: /img/lights.png
 ---
 # Om ROOM FOR LIFE
 
