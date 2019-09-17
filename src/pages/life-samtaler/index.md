@@ -1,7 +1,9 @@
 ---
 templateKey: life-samtaler
 title: LifeSamtaler
-subtitle: This is place for life samtaler subtitle
+subtitle: >-
+  Du er altid mere end din fortælling og den situation du står i. Der er altid
+  mere der kan siges om dit liv.
 heroImage: /img/silver-cups.jpg
 ---
 ## LifeSamtaler
