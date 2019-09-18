@@ -1,8 +1,10 @@
 ---
 templateKey: joanna-page
 title: Om Joanna
-heroImage: /img/room-for-life-face.png
-subtitle: This is place for Joanna page subtitle
+subtitle: >-
+  Alle mennesker har ret til at udtrykke deres stemme og leve efter deres
+  værdier sammen med andre
+heroImage: /img/p7110330.jpg
 ---
 # Om Joanna
 
