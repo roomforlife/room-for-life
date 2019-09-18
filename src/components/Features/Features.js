@@ -13,8 +13,8 @@ const FeatureGrid = ({ gridItems }) => (
       <p className={cx(bs.textCenter, bs.my5)}>More description about what we do.</p> */}
       <div className={bs.row}>
         <div className={bs.offsetMd1}></div>
-        {gridItems && gridItems.map((item) => (
-          <aside key={item.text} className={cx(bs.col12, bs.colMd5)}>
+        {gridItems && gridItems.map((item, i) => (
+          <aside key={i} className={cx(bs.col12, bs.colMd5)}>
             <div className={features.featuresCard}>
               <div className={features.cardImage} style={{ 'backgroundImage': `url(${
               !!item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image

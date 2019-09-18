@@ -1,9 +1,28 @@
 .footer {
     background-color: #24292d;
 }
+.row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contact {
+    display: flex;
+    flex-direction: column;
+    color: lightgray;
+    margin-bottom: 24px;
+    text-align: center;
+    font-size: 14px;
+}
 .socials {
     display: flex;
     justify-content: center;
+}
+.mail {
+    color: lightgray;
+    &:hover {
+        color: white;
+    }
 }
 .socialIconWrapper {
     padding: 10px;
@@ -31,4 +50,14 @@
     fill: gray;
     width: 1.5rem;
     height: 1.5rem;
+}
+@media (min-width: 768px) {
+    .row {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .contact {
+        margin-bottom: 0;
+        text-align: left;
+    }
 }
