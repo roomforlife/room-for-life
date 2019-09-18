@@ -1,5 +1,5 @@
 import React from 'react'
-import { graphql, StaticQuery } from 'gatsby'
+import { graphql, StaticQuery, Link } from 'gatsby'
 import Layout from '../../components/Layout'
 import Helmet from 'react-helmet'
 
@@ -17,15 +17,15 @@ export class BlogIndexPage extends React.Component {
           <Helmet title="Blog" />
           <div className={bs.container}>
             <h1 className={cx(bs.textCenter, bs.h1, bs.my4)}>Blog</h1>
-            <div className={cx(blog.featuredPost, bs.my4, bs.p4)}>
+            <Link to={firstPost.fields.slug} className={cx(blog.featuredPost, bs.dBlock, bs.my4, bs.p4)}>
                 {firstPost.frontmatter.title}
-            </div>
+              </Link>
             <div>
               {posts && posts.map(({node: post}, i) => {
                 if (i > 0) {
                   return (
                     <aside key={post.id}>
-                    {post.frontmatter.title}
+                   <Link to={post.fields.slug} className={cx(bs.dBlock, bs.my2)}>{post.frontmatter.title}</Link>
                   </aside> 
                   )
                 }
