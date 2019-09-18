@@ -9,8 +9,8 @@ import features from './Features.module.scss'
 const FeatureGrid = ({ gridItems }) => (
   <section className={bs.my5}>
     <div className={bs.container}>
-      <h2 className={cx(bs.my2, bs.h1, bs.textCenter, bs.fontFamilySerif)}>What we do</h2>
-      <p className={cx(bs.textCenter, bs.my5)}>More description about what we do.</p>
+      {/* <h2 className={cx(bs.my2, bs.h1, bs.textCenter, bs.fontFamilySerif)}>What we do</h2>
+      <p className={cx(bs.textCenter, bs.my5)}>More description about what we do.</p> */}
       <div className={bs.row}>
         <div className={bs.offsetMd1}></div>
         {gridItems && gridItems.map((item) => (
@@ -23,7 +23,7 @@ const FeatureGrid = ({ gridItems }) => (
                 <h3 className={cx(bs.h2, features.cardTitle)}>{item.title}</h3>
                 <div className={features.divider}></div>
                 <p className={cx(bs.my3)}>{item.text}</p>
-                <Link className={cx(features.viewMoreButton, bs.my2)} to={item.url}>View more</Link>
+                <Link className={cx(features.viewMoreButton, bs.my2)} to={item.url}>Læs mere</Link>
               </div>
             </div>
           </aside>

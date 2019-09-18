@@ -1,9 +1,11 @@
-$font-family-base: 'Source Sans Pro';
+$font-family-base: 'Open Sans';
 
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
 
 .h2,
 .h1,
 .h3 {
-    font-family: 'Dancing Script';
+    font-family: 'Playfair Display';
+    font-weight: 700;
+    font-style: italic;
 } 

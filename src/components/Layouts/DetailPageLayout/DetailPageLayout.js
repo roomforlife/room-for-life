@@ -2,6 +2,7 @@ import React from 'react'
 import cx from 'classnames'
 import bs from '../../Bootstrap.module.scss'
 import dpl from './DetailPageLayout.module.scss'
+import ContactButton from '../../ContactButton/ContactButton'
 
 const DetailPageLayout = ({ title, subtitle, heroImage, children }) => {
   return (
@@ -19,6 +20,7 @@ const DetailPageLayout = ({ title, subtitle, heroImage, children }) => {
         </header>
         <main className={cx(bs.my5, bs.container)}>
           {children}
+          <ContactButton />
         </main>
     </div>
   )

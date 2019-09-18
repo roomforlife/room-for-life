@@ -1,0 +1,16 @@
+.button {
+    background-color: #f3520a;
+    color: white !important;
+    padding: 8px 16px;
+    margin-top: 8px;
+    border: 1px solid  #f3520a;
+    display: inline-block;
+    border-radius: 3px;
+    font-size: 1.2rem;
+    transition: all .3s ease-in-out;
+    &:hover {
+        background-color: white;
+        color:  #f3520a !important;
+        border: 1px solid  #f3520a;
+    }
+}

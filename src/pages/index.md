@@ -6,15 +6,15 @@ heading: Lev det liv, du gerne vil leve.
 intro:
   blurbs:
     - image: /img/life-samtaler.jpg
-      title: Life Samtaler
+      title: LifeSamtaler
       url: /life-samtaler
       text: >
-        This will be the text for Life Samtaler
+        
     - image: /img/life-events.jpg
-      title: Life Evets
+      title: LifeEvets
       url: /life-events
       text: >
-        This will be the text for Life Events
+        
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
