@@ -4,7 +4,7 @@ title: Om Joanna
 subtitle: >-
   Alle mennesker har ret til at udtrykke deres stemme og leve efter deres
   værdier sammen med andre
-heroImage: /img/life-samtaler.jpg
+heroImage: /img/p7110330.jpg
 ---
 # Om Joanna
 
