@@ -2,8 +2,8 @@
 templateKey: life-samtaler
 title: LifeSamtaler
 subtitle: >-
-  Du er altid mere end din fortælling og den situation du står i. Der er altid
-  mere der kan siges om dit liv.
+  Med samtalerne kan du frigøre dig fra de historier, som holder dig fra at leve
+  det liv, du gerne vil leve
 heroImage: /img/silver-cups.jpg
 ---
 ## LifeSamtaler
