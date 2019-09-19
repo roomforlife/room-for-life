@@ -1,9 +1,7 @@
 ---
 templateKey: life-events
 title: LifeEvents
-subtitle: >-
-  Oplev inspirerende foredrag om mental sundhed med levende fortællinger og
-  skarpe pointer du kan tage med hjem og bruge igen og igen
+subtitle: Inspirerende foredrag om sprog og mental sundhed.
 heroImage: /img/event.jpg
 ---
 ## LifeEvents
