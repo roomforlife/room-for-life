@@ -14,7 +14,7 @@ Intet problem er for stort eller for småt.
 
 Under samtalerne finder vi definitionen på problemet sammen. Mit fokus i samtalerne er på, hvordan du kan bruge dit sprog som et redskab til at blive bevidst om, hvorfor du handler som du gør, og hvordan du kan ændre den måde, du tænker om dig selv på og dit forhold til andre.
 
-Under samtalerne arbejder vi med dine håb, hvad der er vigtig for dig i dit liv, og vi udforsker det du kan, gør og vil. Vi skaber muligheder for, at du kan leve det liv du gerne vil leve i overensstemmelse med dine værdier.
+Under samtalerne arbejder vi med dine håb, intentioner og hvad der er vigtig for dig i dit liv. Vi udforsker det du kan, gør og vil. Vi skaber muligheder for, at du kan leve det liv du gerne vil leve i overensstemmelse med dine værdier.
 
 Du er altid mere end din fortælling og den situation du står i. Der er altid mere der kan siges om dit liv.
 
