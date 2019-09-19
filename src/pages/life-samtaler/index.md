@@ -2,7 +2,7 @@
 templateKey: life-samtaler
 title: LifeSamtaler
 subtitle: >-
-  Frigør dig fra de historier, som holder dig fra at leve det liv, du gerne vil
+  Frigør dig fra historier, som holder dig fra at leve det liv, du gerne vil
   leve.
 heroImage: /img/silver-cups.jpg
 ---
