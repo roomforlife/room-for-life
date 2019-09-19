@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Anxiety – a disorder or your best friend trying to tell you something? '
-date: 2019-09-19T10:13:58.193Z
+date: 2019-09-12T10:13:58.193Z
 description: 'Is anxiety a disorder or meaningful communication? '
 featuredpost: true
 featuredimage: /img/anxiety-or-best-friend.jpg
