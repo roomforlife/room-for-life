@@ -2,8 +2,8 @@
 templateKey: life-samtaler
 title: LifeSamtaler
 subtitle: >-
-  Med LifeSamtaler kan du frigøre dig fra de historier, som holder dig fra at
-  leve det liv, du gerne vil leve
+  Frigøre dig fra de historier, som holder dig fra at leve det liv, du gerne vil
+  leve.
 heroImage: /img/silver-cups.jpg
 ---
 ## LifeSamtaler
