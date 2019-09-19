@@ -2,8 +2,8 @@
 templateKey: joanna-page
 title: Om Joanna
 subtitle: >-
-  Alle mennesker har ret til at udtrykke deres stemme og leve efter deres
-  værdier sammen med andre
+  Alle har ret til at udtrykke deres stemme og leve efter deres værdier sammen
+  med andre
 heroImage: /img/jo.jpg
 ---
 # Om Joanna
