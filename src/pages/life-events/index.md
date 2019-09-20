@@ -4,7 +4,7 @@ title: LifeEvents
 subtitle: Inspirerende foredrag om sprog og mental sundhed
 heroImage: /img/event.jpg
 ---
-## LifeEvents
+# LifeEvents
 
 Jeg holder tankevækkende foredrag for dig som er optaget af sprog og mental sundhed. 
 
