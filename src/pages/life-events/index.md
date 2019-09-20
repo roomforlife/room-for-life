@@ -1,7 +1,7 @@
 ---
 templateKey: life-events
 title: LifeEvents
-subtitle: Inspirerende foredrag om sprog og mental sundhed.
+subtitle: Inspirerende foredrag om sprog og mental sundhed
 heroImage: /img/event.jpg
 ---
 ## LifeEvents
@@ -20,7 +20,7 @@ Kom med et åbent og nygerrigt sind og vær med til at udfordre normer og status
 
 Kommende foredrag offentliggøres snarest. 
 
-### Vil du booke mig til et foredrag?
+## Vil du booke mig til et foredrag?
 
 Du kan også booke mig til et foredrag for din organisation, konference eller event. 
 
