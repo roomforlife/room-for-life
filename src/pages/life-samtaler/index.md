@@ -1,12 +1,12 @@
 ---
 templateKey: life-samtaler
-title: LifeSamtaler
+title: Samtaler
 subtitle: >-
   Frigør dig fra historier, som holder dig fra at leve det liv, du gerne vil
   leve
 heroImage: /img/silver-cups.jpg
 ---
-# LifeSamtaler
+# Samtaler
 
 Samtalerne er til dig der ønsker at skabe mening i dine oplevelser, kriser eller traumer. 
 
