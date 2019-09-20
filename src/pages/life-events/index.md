@@ -1,10 +1,10 @@
 ---
 templateKey: life-events
-title: LifeEvents
+title: Foredrag
 subtitle: Inspirerende foredrag om sprog og mental sundhed
 heroImage: /img/event.jpg
 ---
-# LifeEvents
+# Foredrag
 
 Jeg holder tankevækkende foredrag for dig som er optaget af sprog og mental sundhed. 
 
@@ -14,7 +14,7 @@ De er skabt til dig som vil udfordre fasttømmerede måder at tænke om kategori
 
 ## Nærværende teori og forskning
 
-Fordragende sammenfletter teori, forskning og personlige historier så du efter et levende og nærværende event, kan tage skarpe pointer med og bruge dem i dit eget liv. 
+Foredragende sammenfletter teori, forskning og personlige historier så du efter et levende og nærværende event, kan tage skarpe pointer med og bruge dem i dit eget liv. 
 
 Kom med et åbent og nygerrigt sind og vær med til at udfordre normer og status quo. 
 
