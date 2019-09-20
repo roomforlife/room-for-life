@@ -24,7 +24,7 @@ Jeg tror på at vi skaber livet sammen og at vi har brug for vidner til vores li
 
 Jeg opfordrer derfor til at tage vigtige personer med til samtalerne, hvis det giver mening.  
 
-### Er samtalerne noget for dig?
+## Er samtalerne noget for dig?
 
 Bliv ringet op til en gratis og uforpligtende samtale om dig og din situation.
 
