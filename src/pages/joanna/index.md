@@ -8,11 +8,11 @@ heroImage: /img/jo.jpg
 ---
 # Om Joanna
 
-Jeg har startet ROOM FOR LIFE fordi jeg tror på at alle mennesker har ret til at udtrykke deres stemme og leve efter deres værdier sammen med andre. 
+Jeg har startet ROOM FOR LIFE fordi jeg tror på, at alle mennesker har ret til at udtrykke deres stemme og leve efter deres værdier sammen med andre. 
 
 Jeg er uddannet kandidat i psykologi og kommunikation. 
 
-De sidste syv år har jeg beskæftiget mig med hvordan vi kan bruge sproget til at fremme mental sundhed og forebygge psykisk lidelse. 
+De sidste syv år har jeg beskæftiget mig med, hvordan vi kan bruge sproget til at fremme mental sundhed og forebygge psykisk lidelse. 
 
 Jeg har arbejdet med individer og familier i kommunalt, socialpsykiatrisk og privat regi. Mange af de mennesker jeg har i samtale, har oplevet vold, overgreb, traumer og akutte livskriser. 
 
@@ -36,4 +36,10 @@ Det betyder mere konkret at vi er ikke afgrænsede individer, men vi påvirker o
 
 Det betyder, at ‘problemer’ (‘symptomer’, ‘sindslidelse’ osv.) ikke er placeret ‘i individet’, men er noget som relaterer sig til livet og opstår i rummet mellem personen og omverdenen.
 
-Du kan læse min private historie og motivation på min blog.
+## [Blog](https://room-for-life.netlify.com/blog) med meninger og erfaringer
+
+Jeg tror på, at vi forbindes gennem vores fortællinger. Derfor skriver jeg om oplevelser fra mit personlige liv på min [blog](https://room-for-life.netlify.com/blog). 
+
+Intentionen er at inspirere - måske du kan bruge nogle af mine ord i dit eget liv? 
+
+Jeg formidler også et menneskesyn jeg tror på og de ting jeg arbejder for.
