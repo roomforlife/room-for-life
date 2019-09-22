@@ -6,6 +6,7 @@ import Helmet from 'react-helmet'
 import cx from 'classnames'
 import bs from '../../components/Bootstrap.module.scss'
 import blog from './blog-index.module.scss'
+import PreviewCompatibleImage from '../../components/PreviewCompatibleImage'
 
 export class BlogIndexPage extends React.Component {
   render() {
@@ -17,15 +18,28 @@ export class BlogIndexPage extends React.Component {
           <Helmet title="Blog" />
           <div className={bs.container}>
             <h1 className={cx(bs.textCenter, bs.h1, bs.my4)}>Blog</h1>
-            <Link to={firstPost.fields.slug} className={cx(blog.featuredPost, bs.dBlock, bs.my4, bs.p4)}>
-                {firstPost.frontmatter.title}
-              </Link>
+            <div className={cx(blog.featuredPost, bs.dBlock, bs.my4, bs.p4)}>
+            <div className={blog.card}>
+                <PreviewCompatibleImage imageInfo={{image: firstPost.frontmatter.featuredimage, className: blog.firstPostImage}}/>
+                <div className={blog.textContainer}>
+                  <h3 className={cx(blog.postTitle, bs.h5, bs.my2)}>{firstPost.frontmatter.title}</h3>
+                  <span className={blog.postDate}>{firstPost.frontmatter.date}</span>
+                  <Link to={firstPost.fields.slug} className={blog.postButton}>Læse hele indlæg</Link>
+                </div>
+            </div>
+            </div>
             <div>
               {posts && posts.map(({node: post}, i) => {
                 if (i > 0) {
                   return (
-                    <aside key={post.id}>
-                   <Link to={post.fields.slug} className={cx(bs.dBlock, bs.my2)}>{post.frontmatter.title}</Link>
+                  <aside key={post.id} className={cx(blog.card, bs.my4, bs.p4)}>
+                    <PreviewCompatibleImage imageInfo={{image: post.frontmatter.featuredimage, className: blog.firstPostImage}}/>
+                      <div className={blog.textContainer}>
+                      <Link to={post.fields.slug}>
+                        <h3 className={cx(blog.postTitle, bs.h5, bs.my2)}>{post.frontmatter.title}</h3>
+                        <span className={blog.postDate}>{post.frontmatter.date}</span>
+                      </Link>
+                      </div>
                   </aside>
                   )
                 }

@@ -2,3 +2,11 @@
     max-height: 100%;
     padding: 5px;
 }
+.mainTextImage {
+    height: 40px;
+}
+@media (min-width: 768px) {
+    .mainTextImage {
+        height: 50px;
+    }
+}
