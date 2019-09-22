@@ -26,7 +26,7 @@ export class BlogIndexPage extends React.Component {
                   return (
                     <aside key={post.id}>
                    <Link to={post.fields.slug} className={cx(bs.dBlock, bs.my2)}>{post.frontmatter.title}</Link>
-                  </aside> 
+                  </aside>
                   )
                 }
                 return ''

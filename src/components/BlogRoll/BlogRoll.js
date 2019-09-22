@@ -30,7 +30,7 @@ class BlogRoll extends React.Component {
             ))}
           </div>
           <div className={cx(bs.textCenter, bs.my5)}>
-            <Link to="/blog" className={blogRoll.viewAllBtn}>View all posts</Link>
+            <Link to="/blog" className={blogRoll.viewAllBtn}>Læs mere</Link>
           </div>
         </div>
       </section>

@@ -6,12 +6,12 @@ heading: Lev det liv, du gerne vil leve.
 intro:
   blurbs:
     - image: /img/life-samtaler.jpg
-      title: LifeSamtaler
+      title: Samtaler
       url: /life-samtaler
       text: >
         
     - image: /img/life-events.jpg
-      title: LifeEvets
+      title: Foredrag
       url: /life-events
       text: >
         
