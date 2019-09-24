@@ -38,10 +38,10 @@ Nysgerrighed er et af de absolut vigtigste principper. Nysgerrighed handler om a
 
 Empowerment handler for mig om at give mennesker muligheden for at træde frem med deres stemme på en måde, så de føler sig set og hørt. Så de går fra en oplevelse af magtesløshed til at opleve klarhed og handlekraft. Det er et relationelt og samfundsmæssigt projekt, som må bevæge sig fra udelukkelse og marginalisering af stemmer og reduktion af mennesker til enkeltstående kategorier. Et projekt, der fremmer lighed, retfærdighed og værdighed.  
 
-> ”Et værdigt liv, er et liv hvor jeg kan udtrykke mig” 
+> ”Et værdigt liv er et liv, hvor jeg kan udtrykke mig” 
 >
 > (tidligere klient) 	
 
 * ## Samskabelse
 
-Om vi er bevidste om det eller ej, så er livet noget vi skaber sammen med andre – vi er altid en del af en større sammenhæng. For at skabe bæredygtige og værdifulde løsninger, så må vi komme tættere på os selv og hinanden. På vores intentioner og det som er vigtigt. Min opgave er hermed at forbinde mennesker gennem erfaringer, fortællinger og drømme for fremtiden.
+Om vi er bevidste om det eller ej, så er livet noget, vi skaber sammen med andre – vi er altid en del af en større sammenhæng. For at skabe bæredygtige og værdifulde løsninger, må vi komme tættere på os selv og hinanden, på vores intentioner og det, som er vigtigt. Min opgave er hermed at forbinde mennesker gennem erfaringer, fortællinger og drømme for fremtiden.
