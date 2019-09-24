@@ -10,7 +10,7 @@ Jeg holder tankevækkende foredrag for dig, som er optaget af sprog og mental su
 
 Foredragene er udviklet som ideer til, hvordan vi fremmer mental sundhed og forebygger psykisk lidelse gennem sproget.
 
-De er skabt til dig, som vil udfordre fasttømmerede måder at tænke om kategorier såsom "angst", ”misbruger”, ”normal” eller psykisk ”sygdom”. 
+De er skabt til dig, som vil udfordre fasttømmerede eller snævre måder at tænke om kategorier såsom "angst", ”misbruger”, ”normal” eller psykisk ”sygdom”. 
 
 ## Nærværende teori og forskning
 
