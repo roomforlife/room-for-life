@@ -6,17 +6,17 @@ heroImage: /img/event.jpg
 ---
 # Foredrag
 
-Jeg holder tankevækkende foredrag for dig som er optaget af sprog og mental sundhed. 
+Jeg holder tankevækkende foredrag for dig, som er optaget af sprog og mental sundhed. 
 
-Foredragene er udviklet som ideer til hvordan vi fremmer mental sundhed og forebygger psykisk lidelse gennem sproget.
+Foredragene er udviklet som ideer til, hvordan vi fremmer mental sundhed og forebygger psykisk lidelse gennem sproget.
 
-De er skabt til dig som vil udfordre fasttømmerede måder at tænke om kategorier så som "angst", ”misbruger”, ”normal” eller psykisk ”sygdom”. 
+De er skabt til dig, som vil udfordre fasttømmerede måder at tænke om kategorier såsom "angst", ”misbruger”, ”normal” eller psykisk ”sygdom”. 
 
 ## Nærværende teori og forskning
 
-Foredragende sammenfletter teori, forskning og personlige historier så du efter et levende og nærværende event, kan tage skarpe pointer med og bruge dem i dit eget liv. 
+Foredragende sammenfletter teori, forskning og personlige historier, så du efter et levende og nærværende event kan tage skarpe pointer med og bruge dem i dit eget liv. 
 
-Kom med et åbent og nygerrigt sind og vær med til at udfordre normer og status quo. 
+Kom med et åbent og nysgerrigt sind og vær med til at udfordre normer og status quo. 
 
 Kommende foredrag offentliggøres snarest. 
 
