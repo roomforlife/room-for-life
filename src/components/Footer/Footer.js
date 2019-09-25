@@ -22,9 +22,9 @@ const Footer = class extends React.Component {
             <span>CVR-nr.: 38725548</span>
           </div>
           <div className={footer.socials}>
-            <Link to="https://www.facebook.com/joannawisbech/" className={footer.socialIconWrapper}>
+            <a href="https://www.facebook.com/joannawisbech" target="_blank" className={footer.socialIconWrapper}>
               <Facebook className={footer.socialIcon}/>
-            </Link>
+            </a>
           </div>
         </div>
       </footer>
