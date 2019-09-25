@@ -35,11 +35,3 @@ Jeg er særligt optaget af poststrukturalistiske og feministiske ideer, og mine 
 Det betyder mere konkret, at vi ikke er afgrænsede individer, men vi påvirker og påvirkes af de relationer, sprog, kultur og organisationer, som vi er en del af. For at forstå mennesker må vi se på de omstændigheder, de er i, og det samfund, de lever i. 
 
 'Problemer' ('symptomer', 'sindslidelse' osv.) ikke er placeret 'i individet', men er noget, som relaterer sig til livet og opstår i rummet mellem personen og omverdenen.
-
-## [Blog](https://room-for-life.netlify.com/blog) med meninger og erfaringer
-
-Jeg tror på, at vi forbindes gennem vores fortællinger. Derfor skriver jeg om oplevelser fra mit personlige liv på min [blog](https://room-for-life.netlify.com/blog). 
-
-Intentionen er at inspirere - måske kan du bruge nogle af mine ord i dit eget liv? 
-
-Jeg formidler også et menneskesyn, jeg tror på, og de ting, jeg arbejder for.
