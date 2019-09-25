@@ -18,13 +18,14 @@ export class BlogIndexPage extends React.Component {
           <Helmet title="Blog" />
           <div className={bs.container}>
             <h1 className={cx(bs.textCenter, bs.h1, bs.my4)}>Blog</h1>
+            <h2 className={cx(bs.my5)}>Blog med meninger og erfaringerJeg tror på, at vi forbindes gennem vores fortællinger. Derfor skriver jeg om oplevelser fra mit personlige liv på min blog. Intentionen er at inspirere - måske kan du bruge nogle af mine ord i dit eget liv? Jeg formidler også et menneskesyn, jeg tror på, og de ting, jeg arbejder for.</h2>
             <div className={cx(blog.featuredPost, bs.dBlock, bs.my4, bs.p4)}>
             <div className={blog.card}>
                 <PreviewCompatibleImage imageInfo={{image: firstPost.frontmatter.featuredimage, className: blog.firstPostImage}}/>
                 <div className={blog.textContainer}>
                   <h3 className={cx(blog.postTitle, bs.h5, bs.my2)}>{firstPost.frontmatter.title}</h3>
                   <span className={blog.postDate}>{firstPost.frontmatter.date}</span>
-                  <Link to={firstPost.fields.slug} className={blog.postButton}>Læse hele indlæg</Link>
+                  <Link to={firstPost.fields.slug} className={blog.postButton}>Læs hele indlæg</Link>
                 </div>
             </div>
             </div>
