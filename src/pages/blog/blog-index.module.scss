@@ -14,16 +14,16 @@
 }
 
 .postButton {
-    background-color: orange;
-    border: 1px solid orange;
+    background-color: #f3520a;
+    border: 1px solid #f3520a;
     color: white;
     padding: 8px 16px;
     transition: all .3s;
     margin-top: 16px;
     &:hover {
-        color: orange;
+        color: #f3520a;
         background-color: white;
-        border-color: orange;
+        border-color: #f3520a;
         text-decoration: none;
     }
 }
