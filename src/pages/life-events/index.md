@@ -14,7 +14,7 @@ De er skabt til dig, som vil udfordre fasttømmerede eller snævre måder at tæ
 
 ## Nærværende teori og forskning
 
-Foredragende sammenfletter teori, forskning og personlige historier, så du efter et levende og nærværende event kan tage skarpe pointer med og bruge dem i dit eget liv. 
+Foredragene sammenfletter teori, forskning og personlige historier, så du efter et levende og nærværende event kan tage skarpe pointer med og bruge dem i dit eget liv. 
 
 Kom med et åbent og nysgerrigt sind og vær med til at udfordre normer og status quo. 
 
