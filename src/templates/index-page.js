@@ -54,6 +54,7 @@ const IndexPage = ({ data }) => {
       <IndexPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
+        heading={frontmatter.heading}
         description={frontmatter.description}
         intro={frontmatter.intro}
       />
