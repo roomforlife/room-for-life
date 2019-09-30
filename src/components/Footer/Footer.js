@@ -14,9 +14,9 @@ const Footer = class extends React.Component {
         <div className={cx(footer.row, bs.container)}>
           <div className={cx(footer.contact)}>
             <div><span>Email: </span>
-              <Link to="mailto:joannawisbech@roomforlife.dk" className={footer.mail}>
+              <a href to="mailto:joannawisbech@roomforlife.dk" className={footer.mail}>
                 joannawisbech@roomforlife.dk
-                </Link>
+              </a>
             </div>
             <span>Telefon: 52 48 22 15</span>
             <span>CVR-nr.: 38725548</span>
