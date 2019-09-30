@@ -14,7 +14,7 @@ const Footer = class extends React.Component {
         <div className={cx(footer.row, bs.container)}>
           <div className={cx(footer.contact)}>
             <div><span>Email: </span>
-              <a href to="mailto:joannawisbech@roomforlife.dk" className={footer.mail}>
+              <a href="mailto:joannawisbech@roomforlife.dk" className={footer.mail}>
                 joannawisbech@roomforlife.dk
               </a>
             </div>
