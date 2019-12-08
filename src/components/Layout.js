@@ -45,13 +45,12 @@ const TemplateWrapper = ({ children }) => {
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154119700-1"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
-          function gtag() {
-            dataLayer.push(arguments);
-          }
-          gtag('js', new Date());
+          function gtag(){dataLayer.push(arguments)}
+          gtag('js', new Date());1
 
           gtag('config', 'UA-154119700-1');
         </script>
+
 
       </Helmet>
       <Navbar />
