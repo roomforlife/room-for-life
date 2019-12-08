@@ -46,7 +46,7 @@ const TemplateWrapper = ({ children }) => {
         <script>
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments)}
-          gtag('js', new Date());1
+          gtag('js', new Date());
 
           gtag('config', 'UA-154119700-1');
         </script>
